@@ -75,13 +75,6 @@ button:hover {
     background-color: #3399ff;  /* Soft blue on hover */
 }
 
-/* Footer */
-footer {
-    color: #d0e1f9;
-    font-size: 0.9em;
-    text-align: center;
-    margin-top: 40px;
-}
 </style>
 '''
 
