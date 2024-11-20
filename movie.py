@@ -29,14 +29,6 @@ h2, h3, p {
     text-align: left; /* Align text to the left */
 }
 
-/* Plot specific font style */
-.stPlot {
-    font-family: 'Georgia', serif;  /* Elegant font for the plot */
-    font-size: 1.1em;
-    color: #d0e1f9;
-    text-align: left;
-}
-
 .stTextInput input:focus {
     border-color: #2ecc71;  /* Green border when focused */
     outline: none;
